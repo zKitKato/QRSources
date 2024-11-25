@@ -15,6 +15,7 @@
 ## Allgemeine Informationen
 
 **Quick Freeze:** 
+
 => soll bei verdacht auf Schwere Straften, allen gespeicherten und zukünftig anfallenden Daten einer Person einfrieren und damit die Löschung dieser Verhindern.
 
 => braucht richterlichen Beschluss um Daten für einen Gerichtprozess verwertbar zu machen
