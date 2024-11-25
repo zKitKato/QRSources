@@ -12,7 +12,7 @@
 
 - Die DSGVO drück kein ausdrückliches Verbot der Vorratsdatenspeicherung aus, genauso drück sie keine Befürwortung dafür aus. Nach [Artikel 5 Abs 1. Teil 2.](Gesetze/DSGVO/DSGVO_Artikel_5.md)  muss es einen festgelegten und eindeutigen Zweck zum Speichern Personen bezogener Daten geben. (Quelle: https://www.datenschutzexperte.de/blog/die-vorratsdatenspeicherung)
 
-## Allgemeine Informationen
+## Allgemeine Informationen Quick Freeze
 
 **Quick Freeze:** 
 
