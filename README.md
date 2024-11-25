@@ -28,7 +28,7 @@
 
 - **Unschuldsvermutung**: Die Vorratsdatenspeicherung untergräbt die Unschuldsvermutung, die in [Artikel 48 Absatz 1 Eu-Charta](EU-Charta_Artikel_48#(1)) verankert ist. Die Annahme, dass jemand schuldig ist, bevor ein Verfahren gegen ihn eröffnet wurde, widerspricht diesem Grundsatz.
 
-- **Datenschutz**: Die Vorratsdatenspeicherung verletzt auch die Datenschutzgarantien des Grundgesetzes. [Artikel 1 Absatz 1 GG](GG_Artikel_1#(1)) schützt die Würde des Menschen und die Freiheit der Person. Die Speicherung von Daten ohne konkreten Verdacht verletzt diese Garantien.
+- **Datenschutz**: Die Vorratsdatenspeicherung verletzt auch die Datenschutzgarantien des Grundgesetzes. [Artikel 1 Absatz 1 GG](Gesetze/GG/GG_Artikel_1.md#(1)) schützt die Würde des Menschen und die Freiheit der Person. Die Speicherung von Daten ohne konkreten Verdacht verletzt diese Garantien.
 
 - Die DSGVO drück kein ausdrückliches Verbot der Vorratsdatenspeicherung aus, genauso drück sie keine Befürwortung dafür aus. Nach [Artikel 5 Abs 1. Teil 2.](DSGVO_Artikel_5#2.)  muss es einen festgelegten und eindeutigen Zweck zum Speichern Personen bezogener Daten geben. (Quelle: https://www.datenschutzexperte.de/blog/die-vorratsdatenspeicherung)
 
