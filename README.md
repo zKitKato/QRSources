@@ -33,8 +33,11 @@ https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2010/03/rs2
 
 https://www.datenschutzexperte.de/blog/die-vorratsdatenspeicherung
 
+https://de.wikipedia.org/wiki/Vorratsdatenspeicherung
 
-### Artikel:
+https://www.bussgeldkatalog.org/vorratsdatenspeicherung/
+
+https://digitalcourage.de/vorratsdatenspeicherung/chronik-vorratsdatenspeicherung
 
 https://fra.europa.eu/de/eu-charter/article/48-unschuldsvermutung-und-verteidigungsrechte
 
