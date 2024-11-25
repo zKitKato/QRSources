@@ -17,6 +17,8 @@
 **Quick Freeze:** 
 => soll bei verdacht auf Schwere Straften, allen gespeicherten und zukünftig anfallenden Daten einer Person einfrieren und damit die Löschung dieser Verhindern.
 
+=> braucht richterlichen Beschluss um Daten für einen Gerichtprozess verwertbar zu machen
+
 **Quellen**:
 
 [FDP](https://www.fdp.de/durchbruch-im-streit-um-vorratsdatenspeicherung) ;  [BMJ](https://www.bmj.de/DE/themen/digitales/digitale_buergerrechte/quick_freeze/quick_freeze_node.html) 
