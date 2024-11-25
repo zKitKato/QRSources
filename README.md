@@ -1,20 +1,6 @@
 # Vorratsdatenspeicherung
 
 
-
-## Urteile des Bundesverfassungsgerichts und des Europäischen Gerichtshofs
-
-- **BVerfG-Urteil 2010**: Das Bundesverfassungsgericht erklärte das deutsche Gesetz zur Vorratsdatenspeicherung für verfassungswidrig, da es gegen Artikel 10 Absatz 1 GG verstieße. (Quelle: https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2010/03/rs20100302_1bvr025608.html)
-
-- **EuGH-Urteil 2014**: Der Europäische Gerichtshof (EuGH) erklärte die EU-Richtlinie zur Vorratsdatenspeicherung von 2006 für nichtig, da sie gegen die EU-Grundrechtecharta verstieße.
-
--  **EuGH-Urteil 2022**: Im Jahr 2022 erklärte der EuGH erneut, dass die anlasslose Vorratsdatenspeicherung von Verkehrs- und Standortdaten nicht mit dem europäischen Recht vereinbar ist. (Quelle: https://www.tagesschau.de/inland/eugh-vorratsdatenpeicherung-101.html)
-
-
-- **EuGH-Urteil 2024**: Im Mai 2024 hat der EuGH erstmals der Vorratsdatenspeicherung grünes Licht geben, im falle von Ip-Adressen, da diese einen nicht zwang haft großen eingrif in die Grundrechte geben. Beispiel von Frankreich zur Bekämpfung von Urheberrechtsverstößen. (Quelle: https://www.zdf.de/nachrichten/politik/eugh-urteil-vorratsdaten-speicherung-datenschutz-internet-straftaeter-100.html)
-
-
-
 ## Verstöße gegen Gesetztes Texts, EU-Charta
 
 
