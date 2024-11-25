@@ -24,7 +24,7 @@
 ## Verstöße gegen Gesetztes Texts, EU-Charta
 
 
-- **Fernmeldegeheimnis**: Das Grundgesetz garantiert nach [Artikel 10 Absatz 1 GG](Getsetze/GG/GG_Artikel_10#(1)), das Recht auf Schutz der Korrespondenz und der Übermittlung von Nachrichten (Fernmeldegeheimnis). Die Vorratsdatenspeicherung verletzt dieses Recht, indem sie die Überwachung von Kommunikationen ermöglicht, bevor ein Verdacht besteht.
+- **Fernmeldegeheimnis**: Das Grundgesetz garantiert nach [Artikel 10 Absatz 1 GG](Getsetze/GG/GG_Artikel_10.md#(1)), das Recht auf Schutz der Korrespondenz und der Übermittlung von Nachrichten (Fernmeldegeheimnis). Die Vorratsdatenspeicherung verletzt dieses Recht, indem sie die Überwachung von Kommunikationen ermöglicht, bevor ein Verdacht besteht.
 
 - **Unschuldsvermutung**: Die Vorratsdatenspeicherung untergräbt die Unschuldsvermutung, die in [Artikel 48 Absatz 1 Eu-Charta](EU-Charta_Artikel_48#(1)) verankert ist. Die Annahme, dass jemand schuldig ist, bevor ein Verfahren gegen ihn eröffnet wurde, widerspricht diesem Grundsatz.
 
